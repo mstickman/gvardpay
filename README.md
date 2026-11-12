@@ -73,7 +73,3 @@ Sending is limited to one transaction in flight at a time, so a double tap on th
 ## Known limits
 
 Workflows do not run in the background. The app cannot sign a payment while it is closed, so scheduled payouts that fire on their own need a server-side scheduler, which does not exist yet. Notifications are in-app alerts, not push messages. There is no automated test suite.
-
-## License
-
-MIT. See [LICENSE](LICENSE).

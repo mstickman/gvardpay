@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/16e8b9b0-7069-4136-a9d1-2592d3a0d320
+
+
 # GvardPay
 
 A mobile wallet and payment app for Solana, plus a small workflow engine for recurring payouts. React Native, Expo, TypeScript. The interface is in Russian.

@@ -1,3 +1,6 @@
+<img width="2000" height="535" alt="gvard-logo-2000" src="https://github.com/user-attachments/assets/b102b999-edd1-4907-a469-e9c75e451470" />
+
+
 https://github.com/user-attachments/assets/16e8b9b0-7069-4136-a9d1-2592d3a0d320
 
 
